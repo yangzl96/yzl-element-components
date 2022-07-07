@@ -1,0 +1,14 @@
+{
+  "name": "yzl-element-components",
+  "version": "1.0.1",
+  "main": "index.es.js",
+  "module": "index.es.js",
+  "types": "index.d.ts",
+  "author": {
+    "name": "yzl"
+  },
+  "keywords": [
+    "element-plus",
+    "二次封装"
+  ]
+}
